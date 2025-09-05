@@ -1,11 +1,6 @@
 # linux-shell-scripting-functions
 This is a project to demonstrate how functions are created and used in shell scripting.
 
-GOAL:
-    Develop a shell script for DataWise Solutins client that automates the setup of EC2 instances and S3 buckets.
-    Focus - Functions
-
-
 Functions are one of the ways of organizing code for clarity and efficiency. they are re-usable blocks of code that perform specific tasks.
 
 The following logic can be encapsulated in functions;
